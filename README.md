@@ -93,11 +93,14 @@ HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5, GPIO_PIN_RESET);
 }
 
 **OUTPUT:**
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
+
+CASE 1: LED ON
+
+<img width="779" height="581" alt="Screenshot 2025-11-09 183127" src="https://github.com/user-attachments/assets/29efe21c-ba24-4c20-b605-0393cbfe873b" />
+
+CASE 2: LED OFF
+
+<img width="549" height="729" alt="Screenshot 2025-11-09 183143" src="https://github.com/user-attachments/assets/b00aa18e-2611-4d19-9361-88d1199627ce" />
 
 
 
