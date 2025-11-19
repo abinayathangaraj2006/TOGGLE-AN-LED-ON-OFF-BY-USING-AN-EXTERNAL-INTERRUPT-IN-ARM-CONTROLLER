@@ -1,5 +1,7 @@
 # TOGGLE-AN-LED-ON-OFF-BY-USING-AN-EXTERNAL-INTERRUPT-IN-ARM-CONTROLLER
 
+
+
 **Aim:**
 
 To Interface a Digital Input (user push button ) to ARM development board and write a program to obtain the data and flash the led.
@@ -93,15 +95,9 @@ HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5, GPIO_PIN_RESET);
 }
 
 **OUTPUT:**
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
 
-
+![WhatsApp Image 2025-11-10 at 09 07 25_4deb21aa](https://github.com/user-attachments/assets/1318ad07-3c90-4857-96b3-7748bee2c5dc)
 
 **Result :**
 
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
-
